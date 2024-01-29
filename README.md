@@ -1,6 +1,6 @@
 # T-Rex Model
 
-The code for the paper: https://arxiv.org/abs/2401.14637.
+The code for the paper: [T-Rex: Text-assisted Retrosynthesis Prediction](https://arxiv.org/abs/2401.14637).
 
 ### Stage 0: Necessary Package Installation
 
